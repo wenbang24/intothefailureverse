@@ -1,8 +1,6 @@
-# intothefailureverse
+# Into The Failureverse
 school project
 
-its an unreal engine 5 prop hunt game but my friend is obsessed with steven he (hence the name)
+Into The Failureverse is an prop hunt game made in Unreal Engine 5, but my friend is obsessed with steven he (hence the name)
 
-if you wanna have a look you might have to rename the folder to MyFirstProject 
-idk ue5 is weird
-and im not really sure if you need to :)
+If you wanna have a look at the source code or run the game you might have to rename the folder to MyFirstProject - there haven't been any problems for me but who knows?
